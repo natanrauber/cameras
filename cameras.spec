@@ -34,7 +34,7 @@ exe = EXE(
     strip=False,
     upx=True,
     console=False,
-    icon='icon.png'
+    icon='icon.ico'
 )
 
 coll = COLLECT(
